@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="orange">#ff8903</color>
+    <color name="white">#ffffff</color>
+
+    <color name="light_gray_ssss">#fafafa</color>
+    <color name="light_gray_sss">#f0f0f0</color>
+    <color name="light_gray_ss">#e5e5e5</color>
+    <color name="light_gray_s">#cccccc</color>
+    <color name="light_gray">#adadad</color>
+    <color name="dark_gray">#666666</color>
+    <color name="gray">#333333</color>
+
+    <!-- 搜索界面 -->
+    <color name="search_view_bg">#ebebeb</color>
+
+
+</resources>

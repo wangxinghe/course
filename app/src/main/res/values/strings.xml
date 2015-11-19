@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Courses</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="search_hint">Input course or category</string>
+    <string name="search_loading_tag">正在搜索...</string>
+    <string name="collect">Collection</string>
+</resources>

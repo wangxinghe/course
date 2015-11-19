@@ -1,0 +1,2464 @@
+{
+    "elements": [
+        {
+            "id": "v1-228",
+            "domainTypes": [
+                {
+                    "subdomainId": "mobile-and-web-development",
+                    "domainId": "computer-science"
+                }
+            ],
+            "description": "For anyone who would like to apply their technical skills to creative work ranging from video games to art installations to interactive music, and also for artists who would like to use programming in their artistic practice.",
+            "name": "数字媒体和移动应用的创意程序设计",
+            "slug": "digitalmedia",
+            "partnerIds": [
+                "26"
+            ],
+            "courseType": "v1.session",
+            "workload": "5-10 hours/week",
+            "primaryLanguages": [
+                "en"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/24/63a093e763b307dc9420e796aeb06a/GoldComputing3.jpg"
+        },
+        {
+            "id": "69Bku0KoEeWZtA4u62x6lQ",
+            "slug": "gamification",
+            "description": "Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course will teach you the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively. For additional information on the concepts described in the course, you can purchase Professor Werbach's book For the Win: How Game Thinking Can Revolutionize Your Business in print or ebook format in several languages.",
+            "domainTypes": [
+                {
+                    "subdomainId": "design-and-product",
+                    "domainId": "computer-science"
+                },
+                {
+                    "domainId": "business",
+                    "subdomainId": "marketing"
+                }
+            ],
+            "courseType": "v2.ondemand",
+            "partnerIds": [
+                "6"
+            ],
+            "name": "游戏化",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "4-8 hours/week",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/gamification/large-icon.png"
+        },
+        {
+            "id": "v9CQdBkhEeWjrA6seF25aw",
+            "name": "现代艺术与创意",
+            "partnerIds": [
+                "107"
+            ],
+            "description": "Themes can provide a great structure and pedagogical framework for engaging students with many different subjects, including art. In this course, you will develop skills for looking at art through a thematic lens. You will explore four themes–Places & Spaces, Art & Identity, Transforming Everyday Objects, and Art & Society–while learning about artworks from The Museum of Modern Art's collection.",
+            "courseType": "v2.ondemand",
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "music-and-art"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/77/3117c036fd11e5942391baa86d5fc8/Course-Image-1.jpg",
+            "slug": "modern-art-ideas"
+        },
+        {
+            "id": "QgmoVdT2EeSlhSIACx2EBw",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c9/2238c0bb9211e4b43859e37616f9c4/desktop.jpeg",
+            "description": "This is an introductory astronomy survey class that covers our understanding of the physical universe and its major constituents, including planetary systems, stars, galaxies, black holes, quasars, larger structures, and the universe as a whole.",
+            "courseType": "v2.ondemand",
+            "name": "演变中的宇宙",
+            "workload": "",
+            "partnerIds": [
+                "12"
+            ],
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "evolvinguniverse",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                }
+            ]
+        },
+        {
+            "id": "KXOLVTovEeWnxw5wP_KHTw",
+            "courseType": "v2.ondemand",
+            "slug": "intro-to-big-data",
+            "name": "大数据导论",
+            "domainTypes": [
+                {
+                    "subdomainId": "data-analysis",
+                    "domainId": "data-science"
+                }
+            ],
+            "description": "What’s the “hype” surrounding the Big Data phenomenon? Who are these mysterious data scientists everyone is talking about? What kinds of problem-solving skills and knowledge should they have? What kinds of problems can be solved by Big Data technology? After this short introductory course you will have answers to all these questions. Additionally, you will start to become proficient with the key technical terms and big data tools and applications to prepare you for a deep dive into the rest of the courses in the Big Data specialization. Each day, our society creates 2.5 quintillion bytes of data (that’s 2.5 followed by 18 zeros). With this flood of data the need to unlock actionable value becomes more acute, rapidly increasing demand for Big Data skills and qualified data scientists. Hands-On Assignment Hardware and Software Requirements Software Windows 7+, Mac OS X 10.10+, Ubuntu 14.04+ or CentOS 6+ VirtualBox 5+, VMWare Workstation 9+ or VMWare Fusion 7+ Hardware Quad Core Processor (VT-x or AMD-V support recommended), 64-bit 8 GB Ram 20 GB disk free How to find your hardware information: Windows: Open System by clicking the Start button, right-clicking Computer, and then clicking Properties Mac: Open Overview by clicking on the Apple menu and clicking “About This Mac” Most computers with 8 GB RAM purchased in the last 3 years will meet the minimum requirements. Internet connection Access to broadband connection to download the 4 GB Cloudera QuickStart VM from: http://www.cloudera.com/content/www/en-us/downloads/quickstart_vms/5-4.html?src=Coursera",
+            "workload": "3 weeks of study, 5-6 hours/week",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6c/8380704d0911e5ad1d830708963890/big-data-_2_.jpg",
+            "primaryLanguages": [
+                "en"
+            ],
+            "partnerIds": [
+                "53"
+            ]
+        },
+        {
+            "id": "QTTRdG3vEeWG0w42Sx-Gkw",
+            "slug": "learntomod",
+            "description": "Welcome to LearnToMod For Educators! In this course you will learn about: Programming Minecraft Minecraft Modding and Becoming a LearnToMod Educator and we will help you through this journey! You will get a lot of hands-on experience with an easy-to-use programming environment that is available 100% online and for free! Not only can you use it, but all of your students will also be able to use it for free as well! Come learn the wonders of programming and how to use Minecraft as a way to engage students in learning programming. You don't have to have ever programmed or played Minecraft before to be able to succeed in this course. We have already successfully taught hundreds of teachers around the world with this software and curriculum, with nearly 1000 teachers using LearnToMod in their classrooms before this course has even launched. You can not only introduce your students to a new skill that is applicable in any field, but you can learn a new skill as well! This course is estimated to take approximately 4 weeks with only 5 hours of work each week. Be the hit of your school by becoming a Minecraft Modder (programmer)!",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/3d/0dd230826211e588b0fbf8b2fdb686/LearnToMod-ForEducators.jpg",
+            "courseType": "v2.ondemand",
+            "workload": "",
+            "name": "LearnToMod For Educators",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "education"
+                }
+            ],
+            "partnerIds": [
+                "53"
+            ]
+        },
+        {
+            "id": "v1-1355",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "environmental-science-and-sustainability"
+                }
+            ],
+            "partnerIds": [
+                "154"
+            ],
+            "slug": "waterandenvironment",
+            "description": "Using water as the unifying theme, explore ocean and freshwater topics and instructional strategies to integrate environmental content in your teaching practice.",
+            "courseType": "v1.session",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c9/befb80352b11e4ae1bdd88b9e8f59b/Course_Image.png",
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "水：重要资源",
+            "workload": "5-6 hours/week"
+        },
+        {
+            "id": "5uXCfFu2EeSU0SIACxCMgg",
+            "description": "Large-scale biology projects such as the sequencing of the human genome and gene expression surveys using RNA-seq, microarrays and other technologies have created a wealth of data for biologists. However, the challenge facing scientists is analyzing and even accessing these data to extract useful information pertaining to the system being studied. This course focuses on employing existing bioinformatic resources – mainly web-based programs and databases – to access the wealth of data to answer questions relevant to the average biologist, and is highly hands-on. Topics covered include multiple sequence alignments, phylogenetics, gene expression data analysis, and protein interaction networks, in two separate parts. The first part, Bioinformatic Methods I (this one), deals with databases, Blast, multiple sequence alignments, phylogenetics, selection analysis and metagenomics. This, the second part, Bioinformatic Methods II, covers motif searching, protein-protein interactions, structural bioinformatics, gene expression data analysis, and cis-element predictions. This pair of courses is useful to any student considering graduate school in the biological sciences, as well as students considering molecular medicine. Both provide an overview of the many different bioinformatic tools that are out there. These courses are based on one taught at the University of Toronto to upper-level undergraduates who have some understanding of basic molecular biology. If you're not familiar with this, something like https://learn.saylor.org/course/bio101 might be helpful. No programming is required for this course.",
+            "courseType": "v2.ondemand",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "12-18 hours videos and labs",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/32/11e2f53c30ecf81555fbb3a928658e/Thumbnail2.png",
+            "name": "生物信息学方法 I",
+            "partnerIds": [
+                "11"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "life-sciences",
+                    "subdomainId": "bioinformatics"
+                }
+            ],
+            "slug": "bioinformatics-methods-1"
+        },
+        {
+            "id": "Rr2thkIKEeWZtA4u62x6lQ",
+            "description": "Have you ever wondered how a product recommender is built? How you can infer the underlying sentiment from reviews? How you can extract information from images to find visually-similar products to recommend? How you construct an application that does all of these things in real time, and provides a front-end user experience? That’s what you will build in this course! Using what you’ve learned about machine learning thus far, you will build a general product recommender system that does much more than just find similar products You will combine images of products with product descriptions and their reviews to create a truly innovative intelligent application. You’ve probably heard that Deep Learning is making news across the world as one of the most promising techniques in machine learning, especially for analyzing image data. With every industry dedicating resources to unlock the deep learning potential, to be competitive, you will want to use these models in tasks such as image tagging, object recognition, speech recognition, and text analysis. In this capstone, you will build deep learning models using neural networks, explore what they are, what they do, and how. To remove the barrier introduced by designing, training, and tuning networks, and to be able to achieve high performance with less labeled data, you will also build deep learning classifiers tailored to your specific task using pre-trained models, which we call deep features. As a core piece of this capstone project, you will implement a deep learning model for image-based product recommendation. You will then combine this visual model with text descriptions of products and information from reviews to build an exciting, end-to-end intelligent application that provides a novel product discovery experience. You will then deploy it as a service, which you can share with your friends and potential employers. Learning Outcomes: By the end of this capstone, you will be able to: -Explore a dataset of products, reviews and images. -Build a product recommender. -Describe how a neural network model is represented and how it encodes non-linear features. -Combine different types of layers and activation functions to obtain better performance. -Use pretrained models, such as deep features, for new classification tasks. -Describe how these models can be applied in computer vision, text analytics and speech recognition. -Use visual features to find the products your users want. -Incorporate review sentiment into the recommendation. -Build an end-to-end application. -Deploy it as a service. -Implement these techniques in Python.",
+            "partnerIds": [
+                "15"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "machine-learning",
+                    "domainId": "data-science"
+                }
+            ],
+            "slug": "ml-capstone",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bd/79e8104d0011e592b8a9c1c44cb3fe/gears-818461_1280.jpg",
+            "name": "机器学习毕业项目：应用深度学习方法创建智能应用",
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ],
+            "courseType": "v2.capstone"
+        },
+        {
+            "id": "v1-1250",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a1/2bddf0352b11e485649b7db944a974/Employability-MOOC-logo.png",
+            "description": "Learn how to make effective decisions about your future career and how to take control of your professional development by honing your critical thinking and employability skills. Suitable for anyone undertaking some form of study, regardless of academic discipline, interests or employment background. ",
+            "slug": "career",
+            "partnerIds": [
+                "26"
+            ],
+            "workload": "3-6 hours/week",
+            "name": "职业生涯和就业技能提升",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "business-essentials"
+                },
+                {
+                    "domainId": "personal-development",
+                    "subdomainId": "personal-development"
+                }
+            ],
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-185",
+            "partnerIds": [
+                "33"
+            ],
+            "name": "国家财富的产生",
+            "workload": "6-8 hours/week",
+            "slug": "wealthofnations",
+            "courseType": "v1.session",
+            "description": "A survey of the history of economic development in the world in the past 300 years.",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ae/74409ddd8ac19b2deab9012d03041a/industrial-revolution-1.jpg",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "economics",
+                    "domainId": "social-sciences"
+                }
+            ]
+        },
+        {
+            "id": "POZJ3uOtEeSoXCIACw4Gzg",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/a5a050b00f11e4a169f7e38b70cf48/20150130-1-03.png",
+            "courseType": "v2.ondemand",
+            "primaryLanguages": [
+                "zh-TW"
+            ],
+            "description": "工程圖學在教什麼？這門課有的重要性為何? 對我的專業有什麼幫助?沒有工程背景的人也可以學習工程圖學嗎？我不是工程師，學習工程圖學對我的生活有幫助嗎？ 這門課是CAD/BIM技術與應用專項課程的第一門課，與其他三門課「工程圖學2D專題」、「工程圖學3D」，及「工程圖學3D專題」，作為工程圖學及電腦繪圖的入門課程，你將在這門課會學到各種繪圖的原理與方法，以及AutoCAD電腦繪圖技術，並在相關的作業練習中，逐漸熟練這些基本技術。 工程製圖的應用無所不在，最主要的目的就是利用圖像來描述物體的形貌與功能，作為保存與傳遞想法的工具。繪圖一點也不難，無論你從事什麼工作，來自什麼背景，只要你具備中學程度的基本幾何和三角函數概念，就可以在這裡從頭開始，學會工程圖學！你會驚訝的發現，當繪圖融入你的生活時帶來的趣味與方便！",
+            "partnerIds": [
+                "75"
+            ],
+            "slug": "2d-cad",
+            "name": "工程图学 2D CAD",
+            "workload": "",
+            "domainTypes": [
+                {
+                    "subdomainId": "mechanical-engineering",
+                    "domainId": "physical-science-and-engineering"
+                }
+            ]
+        },
+        {
+            "id": "ugSnwH9hEeSiIiIAC3lQMQ",
+            "description": "Ders çok değişkenli fonksiyonlardaki iki derslik dizinin ikincisidir. Birinci ders türev ve entegral kavramlarını geliştirmekte ve bu konulardaki problemleri temel çözme yöntemlerini sunmaktadır. Bu ders, birinci derste geliştirilen temeller üzerine daha ileri konuları işlemekte ve daha kapsamlı uygulamalar ve çözümlü örnekler sunmaktadır. Ders gerçek yaşamdan gelen uygulamaları da tanıtmaya önem veren “içerikli yaklaşımla” tasarlanmıştır.  ----------- The course is the second of the two course sequence of calculus of multivariable functions. The first course develops the concepts of derivatives and integrals of functions of several variables, and the basic tools for doing the relevant calculations. This course builds on the foundations of the first course and introduces more advanced topics along with more advanced applications and solved problems. The course is designed with a “content-based” approach, i. e. by solving examples, as many as possible from real life situations. Bölümler Bölüm 1: Multivar 1'in Özeti, Dairesel Koordinatlarda Entegraller Bölüm 2: Türev Uygulamalarından Seçme Konular Bölüm 3: Çok Değişkenle Zincirleme Türev ve Jakobiyan Bölüm 4: Uzayda Yüzey ve Hacım Entegralleri Bölüm 5: Düzlemde Akı Entegralleri Bölüm 6: Düzlemde Green, Uzayda Stokes ve Green-Gauss Teoremleri Bölüm 7: Stokes ve Green-Gauss Teoremleri ve Doğanın Korunum Yasaları ----------- Kaynak: Attila Aşkar, “Çok değişkenli fonksiyonlarda türev ve entegral”. Bu kitap dört ciltlik dizinin ikinci cildidir. Dizinin diğer kitapları Cilt 1 “Tek değişkenli fonksiyonlarda türev ve entegral”, Cilt 3: “Doğrusal cebir” ve Cilt 4: “Diferansiyel denklemler” dir. Source: Attila Aşkar, Calculus of Multivariable Functions, Volume 2 of the set of Vol1: Calculus of Single Variable Functions, Volume 3: Linear Algebra and Volume 4: Differential Equations. All available online starting on January 6, 2014",
+            "courseType": "v2.ondemand",
+            "primaryLanguages": [
+                "tr"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/aa/238cb0ae7511e38cf97bde89f9f3a9/MultivarLogo250Finallogo1.png",
+            "partnerIds": [
+                "182"
+            ],
+            "workload": "9 hours per module",
+            "domainTypes": [
+                {
+                    "domainId": "math-and-logic",
+                    "subdomainId": "math-and-logic"
+                }
+            ],
+            "slug": "calculus-diferansiyel-hesap",
+            "name": "多变量微积分 II：应用"
+        },
+        {
+            "id": "rc5KG0aUEeWG1w6arGoEIQ",
+            "courseType": "v2.ondemand",
+            "partnerIds": [
+                "6"
+            ],
+            "slug": "accounting-analytics",
+            "description": "Accounting Analytics explores how financial statement data and non-financial metrics can be linked to financial performance.  In this course, taught by Wharton’s acclaimed accounting professors, you’ll learn how data is used to assess what drives financial performance and to forecast future financial scenarios. While many accounting and financial organizations deliver data, accounting analytics deploys that data to deliver insight, and this course will explore the many areas in which accounting data provides insight into other business areas including consumer behavior predictions, corporate strategy, risk management, optimization, and more. By the end of this course, you’ll understand how financial data and non-financial data interact to forecast events, optimize operations, and determine strategy. This course has been designed to help you make better business decisions about the emerging roles of accounting analytics, so that you can apply what you’ve learned to make your own business decisions and create strategy using financial data. ",
+            "domainTypes": [
+                {
+                    "subdomainId": "finance",
+                    "domainId": "business"
+                },
+                {
+                    "subdomainId": "data-analysis",
+                    "domainId": "data-science"
+                }
+            ],
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/82/f043f04cd411e5aad6dd6dd2e8b945/coursera_accounting_analytics_8x8.png",
+            "name": "会计分析"
+        },
+        {
+            "id": "v1-239",
+            "partnerIds": [
+                "31"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/8f/202643630450427f064dee30611eb3/MBB_header_04.jpg",
+            "description": "Explores the factors — musical and cultural — that led to the birth of American rock 'n' roll music in the early 1950s.",
+            "name": "音乐大爆炸：摇滚乐起源",
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "slug": "musicsbigbang",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "music-and-art"
+                }
+            ]
+        },
+        {
+            "id": "gpAI9GK4EeWFkQ7sUCFGVQ",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b7/fc7bf062b811e5b931053ae1fc052b/_MOOC-LOGO-Waste-management-2560x1440px-150dpi2.jpg",
+            "description": "WATCH THE TRAILER Visit our website to watch the course trailer: www.eawag.ch/mooc ABOUT THE COURSE Have you come across large piles of garbage in neighborhoods and streets, or smelly waste disposal sites polluting the environment of low and middle income countries? Are you also convinced that improvements are necessary and do you want to know what kind of sustainable solutions are appropriate to better manage waste and enhance recycling and recovery? If yes, this course is for you! This course provides an overview of the municipal solid waste management situation in developing countries covering key elements of the waste management system, with its technical, environmental, social, financial and institutional aspects. Besides understanding the challenges you will learn about appropriate and already applied solutions through selected case studies. The course also covers strategic planning and policy issues discussing future visions for waste management and the aspect of a circular and green economy. Considering the importance of the organic waste fraction, the course covers several organic waste treatment technology options such as composting, anaerobic digestion, and some other innovative approaches. This course is one of four in the series “Sanitation, Water and Solid Waste for Development. Please visit our webpage for more information: www.eawag.ch/mooc COURSE FORMAT • Watch video lectures: The course content is divided into short modules, which are approximately 8 minutes long, and will be online 22 February. You can complete the whole course or watch only specific video lectures. In total, there will be 5 hours of video lectures. The audio language is English and there will be subtitles in English, Français and Español. • Test your knowledge: You can test your knowledge of solid waste management by taking the quizzes during the videos and by completing the homework quizzes. • Participate in the forum: In the forum, you can interact with the lecturers and with your peers from more than 170 countries. • Earn a Statement of Accomplishment (SoA): Complete the course and earn a SoA by taking the homework quizzes and the final exam.",
+            "courseType": "v2.ondemand",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "environmental-science-and-sustainability"
+                },
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ],
+            "slug": "mswm",
+            "workload": "",
+            "partnerIds": [
+                "16"
+            ],
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "发展中国家城市固体垃圾管理"
+        },
+        {
+            "id": "v1-640",
+            "name": "核心课程教育：基于教学评测设计数学挑战课课程",
+            "partnerIds": [
+                "103"
+            ],
+            "courseType": "v1.session",
+            "slug": "ccss-math1",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "2-4 hours/week",
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "education"
+                }
+            ],
+            "description": "This course offers participants an opportunity to engage in a community of learners using an inquiry cycle focusing on math formative assessments as a strategy for implementing CCSS in math. It focuses on the implementation of a Classroom Challenge: a 1 – 2 day lesson developed by the Mathematics Assessment Project (MAP) based on formative assessment and the CCSSM.",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/bd/5fb8ed244974860205389315c4bbbc/mathteacher-student-whiteboard.jpg"
+        },
+        {
+            "id": "yO13mkySEeW_MgoxMAgbMQ",
+            "description": "How can we shape urban development towards sustainable and prosperous futures? This course will explore sustainable cities as engines for greening the economy. We place cities in the context of sustainable urban transformation and climate change. Sustainable urban transformation refers to structural transformation processes – multi-dimensional and radical change – that can effectively direct urban development towards ambitious sustainability and climate goals. We will connect the key trends of urbanization, decarbonisation and sustainability. We will examine visions, experiments and innovations in urban areas. We will look at practices (what is happening in cities at present) and opportunities (what are the possibilities for cities going forwards into the future). We bring together a collection of diverse short films and key short readings on sustainable cities as well as interactive forums and a practical assignment to create an online learning community. This course utilizes films and reports on sustainable cities by WWF, the Economist Intelligence Unit and ongoing research projects. The International Institute for Industrial Environmental Economics (IIIEE) at Lund University is an international centre of excellence on sustainable solutions. The IIIEE is ideally suited to understand and explain the interdisciplinary issues in sustainable cities and greening the economy utilising the diverse disciplinary backgrounds of its international staff. The IIIEE has been researching and teaching on sustainable solutions since the 1990s and it has extensive international networks connecting with a variety of organizations. 5-8 hours/week 5 weeks duration 25 short films 10 teachers",
+            "courseType": "v2.ondemand",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "environmental-science-and-sustainability"
+                },
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ],
+            "partnerIds": [
+                "199"
+            ],
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "Greening the Economy: Sustainable Cities",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/af/4d5250783811e5bf51f3ab065cecfd/city-mooc-logo-gamla-stan.png",
+            "slug": "gte-sustainable-cities"
+        },
+        {
+            "id": "FjD-ZB8oEeScWCIACnuVZQ",
+            "domainTypes": [
+                {
+                    "subdomainId": "medicine-and-healthcare",
+                    "domainId": "life-sciences"
+                },
+                {
+                    "subdomainId": "clinical-science",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "slug": "epidemiology",
+            "partnerIds": [
+                "77"
+            ],
+            "courseType": "v2.ondemand",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/91/eb6fa07bd62fd195025eded9cd998b/epid-mooc.jpg",
+            "name": "流行病学：基础公共卫生科学",
+            "workload": "5.5小时的视频和小测验",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "流行病学通常被称为公共卫生的“基石”，它是一门研究疾病的分布和决定因素，健康状况，或人群间的活动和应用于控制健康问题的学科。由于流行病学与现实生活息息相关，并更好地评估公共卫生项目和政策，学生将理解流行病学的研究方法，通过这一门课所学到的理论知识应用到当今的公共健康问题。本课程通过流行病学的视框，探讨了心血管疾病和传染病等公共卫生问题，对地区情况和全球情况都进行了讨论。 翻译：Yi Zhou"
+        },
+        {
+            "id": "mwj3ASWcEeWs4gorU6Q1Yw",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a5/c7abc0186411e49569bd8fae65d268/600x340.jpg",
+            "courseType": "v2.ondemand",
+            "primaryLanguages": [
+                "zh-TW"
+            ],
+            "description": "介紹國際職場素養的內涵及相關課題，培育學生應有的職場視野與能力，便利學生融入職場環境，迅速自新手成為高手，裕如地發揮所學與所長。",
+            "partnerIds": [
+                "75"
+            ],
+            "name": "职场素养",
+            "workload": "",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "business-essentials"
+                }
+            ],
+            "slug": "zhichang-suyang"
+        },
+        {
+            "id": "v1-174",
+            "workload": "10-20 hours/week",
+            "partnerIds": [
+                "33"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/35/33ae10352c11e49d32519928fb33e3/DiscreetOptimisation_logo.png",
+            "name": "离散优化",
+            "courseType": "v1.session",
+            "domainTypes": [
+                {
+                    "subdomainId": "probability-and-statistics",
+                    "domainId": "data-science"
+                }
+            ],
+            "slug": "optimization",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "Tired of solving Sudokus by hand? This class teaches you how to solve complex search problems with discrete optimization concepts and algorithms, including constraint programming, local search, and mixed-integer programming."
+        },
+        {
+            "id": "v1-1291",
+            "partnerIds": [
+                "25",
+                "49"
+            ],
+            "name": "配置世界：政治经济学探讨",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ca/1e8b30352c11e49a597321ba86b5f4/ConfWorldLogo.png",
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ],
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "In today’s world, politics and economics are inextricably interconnected, but what is the nature of this connectivity? What are the power relationships that shape the world economy today and create new challenges for international institutions facing globalization? What makes some countries wealthier than others? Do we face cultural diversity or fragmentation? Does the type of governance effect economic development and social change or is it the other way around? How do we measure it and how trustworthy is the data? These issues and many more will be examined in this course along with up-to-date sources and biting criticism. ",
+            "slug": "configuringworld"
+        },
+        {
+            "id": "v1-1012",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/09/28f673583f2c4f13e0ec18205aacc7/sjjg_608x211_info.jpg",
+            "primaryLanguages": [
+                "zh"
+            ],
+            "slug": "dsalgo",
+            "domainTypes": [
+                {
+                    "subdomainId": "algorithms",
+                    "domainId": "computer-science"
+                }
+            ],
+            "courseType": "v1.session",
+            "name": "数据结构与算法",
+            "description": "“数据结构与算法”是计算机学科中的核心基础课程。课程的主要目标培养学生较全面地理解基本数据结构的概念和经典算法的思想及各种实现方法，掌握数据结构和算法的设计分析技术。根据所求解问题的性质选择合理的数据结构并对时间空间复杂性进行必要的控制，提高程序设计的质量。使得学生在将来的学习、研究和工作中，具备设计和实现高效的数据结构和算法的能力。 ",
+            "workload": "4-8 hours/week",
+            "partnerIds": [
+                "163"
+            ]
+        },
+        {
+            "id": "xaYbkyBTEeWibgoGfGzczQ",
+            "primaryLanguages": [
+                "es"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f7/c3f3e023e711e5811a7593a749335e/ThinkstockPhotos-477264515.jpg",
+            "partnerIds": [
+                "62"
+            ],
+            "courseType": "v2.ondemand",
+            "workload": "5-6 horas/semana",
+            "domainTypes": [
+                {
+                    "domainId": "math-and-logic",
+                    "subdomainId": "math-and-logic"
+                }
+            ],
+            "name": "4.- 计算 - 其他模型",
+            "description": "El curso propone un acercamiento a la Matemática Preuniversitaria donde el contexto del movimiento en línea recta dará significado al conocimiento y la tecnología será el medio para interactuar con el mismo.",
+            "slug": "calculo-4"
+        },
+        {
+            "id": "v1-2959",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a9/1b80e01c0e11e5b1f98961e6e14f32/deafnesslogo.jpg",
+            "partnerIds": [
+                "147"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ],
+            "courseType": "v1.session",
+            "slug": "deafness",
+            "name": "21 世纪的耳聋症",
+            "description": "If you want to know more about deafness in low and middle income countries this MOOC is for you. It is primarily aimed at those working as health or education professionals, government officials, support workers, NGOs and anyone with a family or personal interest in deafness. It aims to improve knowledge and understanding of this topic.",
+            "workload": "2-4 hours/week",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-1419",
+            "workload": "3-4 hours/week",
+            "description": "This production class serves as an introduction to, and exploration of digital imagery in the arts. Lectures will cover concepts and presentations of artists working in various capacities with computers, as well as tutorials on specific software packages. ",
+            "partnerIds": [
+                "117"
+            ],
+            "name": "计算艺术导论：视觉艺术",
+            "courseType": "v1.session",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/6f/742a20352a11e4983ad3612bf5dfa7/compartsvisual.png",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "music-and-art"
+                }
+            ],
+            "slug": "compartsvisual"
+        },
+        {
+            "id": "qu8u8vqKEeSDoyIAC1CH0g",
+            "name": "你想如何改变世界？",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "business-strategy"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6e/8fc4ea1a50845fe9505363ce2b8b18/bigidealogo-crop-final.jpg",
+            "partnerIds": [
+                "77"
+            ],
+            "courseType": "v2.ondemand",
+            "workload": "2-3 hours/week",
+            "slug": "big-ideas",
+            "description": "Whether your interest lies in solving the world’s biggest problems, creating the next commercial success or addressing something closer to home, this course will give you a toolbox to vet your ideas and test them in the real world.",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-67",
+            "slug": "nutrition",
+            "domainTypes": [
+                {
+                    "subdomainId": "nutrition",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "partnerIds": [
+                "10"
+            ],
+            "name": "健康促进和疾病预防营养学",
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "description": "This course covers the basics of normal nutrition for optimal health outcomes and evidence-based diets for a variety of diseases.",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/36/3ff880352d11e4a4351b48ac74e750/large-icon.png",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-1432",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "electrical-engineering"
+                },
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "music-and-art"
+                }
+            ],
+            "slug": "audio",
+            "name": "音乐应用的音频信号处理",
+            "courseType": "v1.session",
+            "workload": "8-10 hours/week",
+            "primaryLanguages": [
+                "en"
+            ],
+            "previewLink": "https://class.coursera.org/audio-002/lecture/preview",
+            "description": "In this course you will learn about audio signal processing methodologies that are specific for music and of use in real applications. You will learn to analyse, synthesize and transform sounds using the Python programming language.",
+            "partnerIds": [
+                "1",
+                "225"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/b7/301e00352a11e4b05ae9c2725d6852/figure.png"
+        },
+        {
+            "id": "v1-3535",
+            "name": "The Roosevelt Century",
+            "description": "Who were Franklin, Eleanor, and Theodor Roosevelt? What values did they stand for? This course explores twentieth century US history through these three unique leaders. The 3Rs propelled the United States into a superpower. They changed the way we think about security, equality, and freedom. The Roosevelt Century takes you through their time, and connects it with our own",
+            "domainTypes": [],
+            "slug": "roosevelt",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/97/af65e0554f11e5b3b731c0d5adf03e/Franklin-Roosevelt.jpg",
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "partnerIds": [
+                "25"
+            ],
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "G6m5MzTeEeWWBQrVFXqd1w",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "marketing"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/cfde20400911e58c43a1d415e5474d/CNM_Logo02.png",
+            "name": "公关关系学研究",
+            "courseType": "v2.ondemand",
+            "slug": "prresearch",
+            "description": "Perhaps you are familiar with research. You might have learned about research or maybe you conduct research in your life. How is that different from research in Public Relations practice? In this course, you will learn the foundations of research in PR. PR research is applied research. Practical application of research allows you to improve the organization’s performance. Research can be used in many ways in Public Relations practice. For example, you can use research to analyze and assess a need for the organization, ensure your objectives are realistic and connected to your outcome, identify and describe the relevant publics, brainstorm and test messages and channels, monitor the progress of your PR efforts, show impact and effectiveness of your program. This course will provide you the basic knowledge to plan, design, and conduct research to solve a PR problem. This course is designed for students wanting to pursue careers in public relations as well as a refresher for entry level PR practitioners wanting to brush up on their knowledge of the field. Come join me in this tour of research in PR where you will learn to use research as the backbone of your strategic decisions based on evidence.",
+            "partnerIds": [
+                "47"
+            ],
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "QUTOlO03EeSC-CIAC38Bjw",
+            "name": "一年级教学（小学）：成功的开始",
+            "courseType": "v2.ondemand",
+            "slug": "teaching-elementary",
+            "workload": "2-3 hours of lectures and assignments",
+            "partnerIds": [
+                "103"
+            ],
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "education"
+                }
+            ],
+            "description": "Success with your students starts on Day 1. Learn from NTC's 25 years developing key skills and strategies to create positive, productive classroom environments where students thrive. How do you build relationships with Elementary Grade (K-6) students, establish and maintain behavioral expectations, implement classroom procedures and routines, and use instructional time effectively? About the Course: Developing mastery in establishing and maintaining a rich learning environment is one of the great joys of being a teacher. This course will provide high leverage strategies, resources, and support for professional growth so that you can provide students with the engaging, safe environment essential for student learning. This course is aligned to the needs of Elementary Grade teachers (self-contained K-6, or teaching the same set of students usually under 12 years old). This course will teach you how to implement research-based strategies in the following areas: - Setting and communicating high expectations for students; - Building positive relationships with and between students; - Organizing the learning environment; - Behavioral preventions and interventions; and - Establishing and maintaining routines and procedures that support student learning. Stellar classrooms don’t just happen—they’re created with the kind of intentional planning and preparation this course offers so that you and your students can be successful from the start!",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/67/a015121227b00698b5913922c83f30/success-from-start-3.jpg"
+        },
+        {
+            "id": "v1-1045",
+            "partnerIds": [
+                "10"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "medicine-and-healthcare",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "slug": "interprofessional",
+            "name": "医疗保健的合作和沟通：跨专业实践",
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/35/299160352b11e49acdcfd9c2fca6c5/IPECourseLogo.png",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "Interprofessional collaborative practice is key to safe, high quality, accessible, patient-centered care. This course aims to introduce health professions learners to the fundamental principles and skills for effective interprofessional collaborative practice."
+        },
+        {
+            "id": "v1-938",
+            "name": "机器学习基础（Machine Learning Foundations）",
+            "description": "Machine learning is the study that allows computers to adaptively improve their performance with experience accumulated from the data observed. The course teaches the most fundamental algorithmic, theoretical and practical tools that any user of machine learning needs to know. [機器學習旨在讓電腦能由資料中累積的經驗來自我進步。本課程將介紹各領域中的機器學習使用者都應該知道的基礎演算法、理論及實務工具。]",
+            "slug": "ntumlone",
+            "primaryLanguages": [
+                "zh"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "machine-learning",
+                    "domainId": "data-science"
+                }
+            ],
+            "partnerIds": [
+                "75"
+            ],
+            "courseType": "v1.session",
+            "workload": "8-20 hours/week",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/3f/b6d4d0352b11e494bcf927fb09cbc9/logo.png"
+        },
+        {
+            "id": "5epfT7cBEeScDCIAC9REiQ",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "environmental-science-and-sustainability"
+                }
+            ],
+            "courseType": "v2.ondemand",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8f/71df508df711e39a1703b1fb48e006/home-page-image.png",
+            "name": "人类能源的未来",
+            "description": "This course is designed to introduce students to the issues of energy in the 21st century – including food and fuels – which are inseparably linked – and will discuss energy production and utilization from the biology, engineering, economics, climate science, and social science perspectives. This course will cover the current production and utilization of energy, as well as the consequences of this use, examining finite fossil energy reserves, how food and energy are linked, impacts on the environment and climate, and the social and economic impacts of our present energy and food production and use. After the introductory lectures, we will examine the emerging field of sustainable energy, fuel and food production, emphasizing the importance of developing energy efficient and sustainable methods of production, and how these new technologies can contribute to replacing the diminishing supplies of fossil fuels, and reduce the consequences of carbon dioxide release into the environment. This course will also cover the importance of creating a sustainable energy future for all societies including those of the developing world. Lectures will be prepared and delivered by leading UC San Diego and Scripps Institution of Oceanography faculty and industry professionals across these areas of expertise.",
+            "slug": "future-of-energy",
+            "primaryLanguages": [
+                "en"
+            ],
+            "partnerIds": [
+                "53"
+            ],
+            "workload": "45 hours of videos, quizzes and peer reviews"
+        },
+        {
+            "id": "v1-1961",
+            "slug": "ntuem",
+            "primaryLanguages": [
+                "zh"
+            ],
+            "name": "电磁学",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a8/abba302cef11e4a2c70bcfab45cc52/140825-___-01.jpg",
+            "partnerIds": [
+                "75"
+            ],
+            "courseType": "v1.session",
+            "description": "靜電靜磁到電磁波相關物理、數學及應用之介紹",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                }
+            ],
+            "workload": "5-6 hours/week"
+        },
+        {
+            "id": "3791_tdbEeS2-SIAC4-TTw",
+            "description": "Are you about to enter the workforce? Are you an emerging professional? Are you new to your role in the organization? All prospective new employees benefit from understanding management principles, roles and responsibilities, regardless of position. Now you can acquire an in-depth understanding of the basic concepts and theories of management while exploring the manager's operational role in all types of organizations. Gain insight into the manager's responsibility in planning, organizing, leading, staffing and controlling within the workplace. It’s never too soon to plan your professional path by learning how the best managers manage for success!",
+            "courseType": "v2.ondemand",
+            "workload": "4-8 hours of videos, readings, and quizzes",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "leadership-and-management"
+                }
+            ],
+            "partnerIds": [
+                "30"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1c/c7548049ae11e49dd763187f3b4abc/Fundamentals-of-Management-Course.jpg",
+            "slug": "fundamentals-of-management",
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "管理学基础"
+        },
+        {
+            "id": "ENhHCTboEeW8ZAoCexam_w",
+            "slug": "data-analysis-tools",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/79/bac65036f111e5af19a540c5c3116f/big-dataY.png",
+            "courseType": "v2.ondemand",
+            "description": "Do you want to answer questions with data? Interested in discovering simple methods for answering these questions? Hypothesis testing is the tool for you! After completing this course, you will be able to: - identify the right statistical test for the questions you are asking - apply and carry out hypothesis tests - generalize the results from samples to larger populations - use Analysis of Variance, Chi-Square, Test of Independence and Pearson correlation - present your findings using statistical language.",
+            "name": "数据分析工具",
+            "partnerIds": [
+                "34"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "data-analysis",
+                    "domainId": "data-science"
+                }
+            ],
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-2313",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "leadership-and-management"
+                },
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "systems-engineering"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/43/92e90052e411e4bef305bdd2a952c7/Process-management-PT-2a.jpg",
+            "slug": "processimprovement",
+            "partnerIds": [
+                "17"
+            ],
+            "workload": "6-8 hours/week",
+            "courseType": "v1.session",
+            "description": "The Improving Business Finances and Operations Specialization will be discontinued in January 2016. Learners who wish to earn a Specialization Certificate must pass all courses by December 31, 2015, and complete the Capstone Project in January 2016. If you do not anticipate completing the Specialization within this time frame, please do not purchase the full access option. Gain practical skills for analyzing and improving work processes and for organizing initiatives for continuous improvement of processes. Learn how to plan and execute process improvements with frameworks and techniques from Six Sigma and Lean Management initiatives.",
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "过程改进"
+        },
+        {
+            "id": "v1-70",
+            "name": "原住民世界观和教育",
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ],
+            "workload": "6-8 hours/week",
+            "slug": "aboriginaled",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/03/34f440352d11e48170130ca7e70d6d/large-icon.png",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "This course will explore indigenous ways of knowing and how this knowledge can inform education to the benefit of all students.",
+            "partnerIds": [
+                "11"
+            ]
+        },
+        {
+            "id": "WGJsi1UuEeWaMw4b4yEpbw",
+            "slug": "sotsialnaya-set",
+            "name": "",
+            "description": "",
+            "courseType": "v2.ondemand",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d7/046af0560e11e5adde798ff4740020/___3.png",
+            "partnerIds": [
+                "276"
+            ],
+            "workload": "9 недель исследования, 1-2 часов / неделю",
+            "domainTypes": [
+                {
+                    "subdomainId": "economics",
+                    "domainId": "social-sciences"
+                },
+                {
+                    "domainId": "business",
+                    "subdomainId": "marketing"
+                }
+            ],
+            "primaryLanguages": [
+                "ru"
+            ]
+        },
+        {
+            "id": "Tr9rK6JtEeSwKiIACiONVg",
+            "partnerIds": [
+                "7"
+            ],
+            "slug": "physiology",
+            "name": "人体生理学导论",
+            "courseType": "v2.ondemand",
+            "workload": "22 hours of videos and assessments",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/humanphysio/large-icon.png",
+            "domainTypes": [
+                {
+                    "subdomainId": "biology",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "In this course, students learn to recognize and to apply the basic concepts that govern integrated body function (as an intact organism) in the body's nine organ systems."
+        },
+        {
+            "id": "v1-1344",
+            "description": "À l’École Polytechnique Fédérale de Lausanne, un cours de physique générale fait partie de la formation de tous les futurs ingénieurs et scientifiques. Le présent cours de mécanique en fait partie. Il a pour but de leur apprendre à transcrire sous forme mathématique un phénomène physique, afin de pouvoir en formuler une analyse raisonnée.",
+            "primaryLanguages": [
+                "fr"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c7/864eb0776f11e39fc85d6b67fc9161/physique.jpg",
+            "workload": "4-4 hours/week",
+            "slug": "mecanique2",
+            "name": "机械学 II",
+            "courseType": "v1.session",
+            "partnerIds": [
+                "16"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                }
+            ]
+        },
+        {
+            "id": "koVAwj03EeWZtA4u62x6lQ",
+            "primaryLanguages": [
+                "es"
+            ],
+            "description": "",
+            "name": "Inglés Empresarial: Gestión y Liderazgo",
+            "courseType": "v2.ondemand",
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "language-and-literature"
+                },
+                {
+                    "domainId": "business",
+                    "subdomainId": "business-essentials"
+                }
+            ],
+            "slug": "ingles-empresarial-gestion-liderazgo",
+            "partnerIds": [
+                "287"
+            ],
+            "workload": "",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8b/4446d061e911e5ac2f81e29d413c5a/Teamwork.jpg"
+        },
+        {
+            "id": "v1-304",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/27/affaf1a8cbc3f53468766a99acd35b/RealTimeCity.jpg",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "environmental-science-and-sustainability"
+                }
+            ],
+            "workload": "6-8 hours/week",
+            "partnerIds": [
+                "28"
+            ],
+            "courseType": "v1.session",
+            "name": "科技城市",
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "techcity",
+            "description": "We live in real-time, technologically enhanced cities. Explore the sweeping changes that our cities are undergoing as a result of networks, sensors, and communication technology."
+        },
+        {
+            "id": "v1-484",
+            "slug": "extrasolarplanets",
+            "description": "The course will provide an overview of the knowledge acquired during the past 20 years in the domain of exoplanets. It will review the different detection methods, their limitations, and the information provided on the orbital system and the planet itself, and how this information is helping our understanding of planet formation.",
+            "partnerIds": [
+                "49"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/8419ebf39f0f674254f4d23a54d5f2/exoplanet07.jpg",
+            "workload": "2-3 hours/week",
+            "courseType": "v1.session",
+            "name": "系外行星多样性",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                }
+            ]
+        },
+        {
+            "id": "a05nBT8oEeWpogr5ZO8qxQ",
+            "slug": "infertilite",
+            "description": "İnfertilite tanı ve tedavi aşamasında bireylere verilecek hemşirelik bakım sürecinin uygulaması aşamasında ihtiyaç duyulan temel bilgiyi sağlar. İnfertilitenin nedenleri, tanı ve tedavi yöntemleri, bu süreçlerde çiftlerin yaşadıkları fiziksel ve psikososyal sorunları ve önlemeye yönelik hemşirelik girişimlerini içerir.",
+            "domainTypes": [
+                {
+                    "subdomainId": "medicine-and-healthcare",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "courseType": "v2.ondemand",
+            "primaryLanguages": [
+                "tr"
+            ],
+            "partnerIds": [
+                "182"
+            ],
+            "workload": "",
+            "name": "İnfertilite Hemşireliği (Infertility Nursing)",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c4/50cfd0839e11e5b277772aa5255765/bubble-2.png"
+        },
+        {
+            "id": "v1-2380",
+            "slug": "uidesign2",
+            "domainTypes": [
+                {
+                    "subdomainId": "mobile-and-web-development",
+                    "domainId": "computer-science"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/3c/911020f35f11e4808cdb0b619eb918/Introduction-to-User-Interface-Design-part-two-Icon600x340.jpg",
+            "partnerIds": [
+                "9"
+            ],
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "This course is currently under development and is expected to be offered October 2015.",
+            "name": "移动和普适计算"
+        },
+        {
+            "id": "iCIGe_T6EeS-1yIAC7MN4w",
+            "name": "系统生物学中的实验方法",
+            "courseType": "v2.ondemand",
+            "workload": "6-8 hours/week",
+            "slug": "experimental-methods",
+            "domainTypes": [
+                {
+                    "subdomainId": "biology",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "description": "Learn about the technologies underlying experimentation used in systems biology, with particular focus on RNA sequencing, mass spec-based proteomics, flow/mass cytometry and live-cell imaging. A key driver of the systems biology field is the technology allowing us to delve deeper and wider into how cells respond to experimental perturbations. This in turns allows us to build more detailed quantitative models of cellular function, which can give important insight into applications ranging from biotechnology to human disease. This course gives a broad overview of a variety of current experimental techniques used in modern systems biology, with focus on obtaining the quantitative data needed for computational modeling purposes in downstream analyses. We dive deeply into four technologies in particular, mRNA sequencing, mass spectrometry-based proteomics, flow/mass cytometry, and live-cell imaging. These techniques are often used in systems biology and range from genome-wide coverage to single molecule coverage, millions of cells to single cells, and single time points to frequently sampled time courses. We present not only the theoretical background upon which these technologies work, but also enter real wet lab environments to provide instruction on how these techniques are performed in practice, and how resultant data are analyzed for quality and content.",
+            "primaryLanguages": [
+                "en"
+            ],
+            "partnerIds": [
+                "27"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/60/01cbf07d6b11e396d72d067a587519/Experimental_methods_logo.png"
+        },
+        {
+            "id": "v1-1052",
+            "description": "The meteoric rise of technologies used in our everyday life for profit, power, or improvement of an individual's life can, on occasion, cause cultural stress as well as ethical challenges. In this course, we will explore how these multifaceted impacts might be understood, controlled and mitigated.",
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1a/e29e90352c11e4a1481570b8fd189d/TechEthics-logo.png",
+            "name": "科技与伦理",
+            "slug": "techethics",
+            "workload": "3-5 hours/week",
+            "partnerIds": [
+                "28"
+            ],
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-1984",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/59/5c3b00352b11e4a20a15dee8e65a23/_____-v4.png",
+            "name": "计算机组成",
+            "primaryLanguages": [
+                "zh"
+            ],
+            "workload": "3-5 hours/week",
+            "slug": "pkuco",
+            "courseType": "v1.session",
+            "domainTypes": [
+                {
+                    "domainId": "computer-science",
+                    "subdomainId": "software-development"
+                }
+            ],
+            "description": "本课程重点讲述计算机的内部结构和工作原理，着眼于软件和硬件的衔接互动，注重基本概念和真实系统的对应。",
+            "partnerIds": [
+                "163"
+            ]
+        },
+        {
+            "id": "QRDjcWLVEeWFkQ7sUCFGVQ",
+            "slug": "origins-universe-solarsystem",
+            "courseType": "v2.ondemand",
+            "name": "Origins - Formation of the Universe, Solar System, Earth and Life",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/45/5637fba9fcd5f219a84c7c346096d2/origins.jpg",
+            "description": "The Origins course tracks the origin of all things – from the Big Bang to the origin of the Solar System and the Earth. The course follows the evolution of life on our planet through deep geological time to present life forms.",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "5-7 hours/week",
+            "partnerIds": [
+                "63"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                },
+                {
+                    "subdomainId": "biology",
+                    "domainId": "life-sciences"
+                }
+            ]
+        },
+        {
+            "id": "v1-773",
+            "partnerIds": [
+                "7"
+            ],
+            "slug": "afp21stcentury",
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/fd/feabbff56fa246d3873f94576ffaa0/AmerForeignPolicyLogo_1080.jpg",
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "description": "What is American foreign policy? Who makes it? Why is it the way it is? How does it affect the rest of the world? Professor Bruce Jentleson has taught the subject for over 30 years, written one of the leading books on it, and has served in numerous U.S. foreign policy positions.",
+            "name": "美国21世纪的外交政策",
+            "primaryLanguages": [
+                "en"
+            ],
+            "previewLink": "https://class.coursera.org/afp21stcentury-001/lecture/preview"
+        },
+        {
+            "id": "v1-3406",
+            "domainTypes": [
+                {
+                    "subdomainId": "nutrition",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "name": "喂饱全世界",
+            "partnerIds": [
+                "6"
+            ],
+            "courseType": "v1.session",
+            "description": "Over the next 40 years, food production must double to meet the growing needs of the world population, which is estimated to exceed 9 billion by the year 2050. But, how do producers provide the growing human population with the needed food while maximizing the efficiency of production and minimizing impacts on the environment to ensure a sustainable future for us all?",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/be/c8ae402c8a11e583dc731d64922d2c/feeding-the-world-icon-FINAL-RESIZED-V4.jpg",
+            "slug": "feedingtheworld",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "2-4 hours/week"
+        },
+        {
+            "id": "v1-1572",
+            "domainTypes": [
+                {
+                    "subdomainId": "mobile-and-web-development",
+                    "domainId": "computer-science"
+                }
+            ],
+            "partnerIds": [
+                "51"
+            ],
+            "name": "地理空间智能分析和及其影响",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/68/02a0c0ea9b11e38540e7223e5f7dc3/geoint_logo10a.jpg",
+            "description": "Learn how the revolution in geospatial technology combined with the tradecraft of Geospatial Intelligence (GEOINT) have changed how we develop insights about how humans use geography, and discover the power of GEOINT.",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "6-9 hours/week",
+            "slug": "geoint"
+        },
+        {
+            "id": "v1-841",
+            "name": "统计力学：算法和计算",
+            "domainTypes": [
+                {
+                    "domainId": "math-and-logic",
+                    "subdomainId": "math-and-logic"
+                },
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                }
+            ],
+            "slug": "smac",
+            "partnerIds": [
+                "130"
+            ],
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "description": "In this course you will learn a whole lot of modern physics (classical and quantum) from basic computer programs that you will download, generalize, or write from scratch, discuss, and then hand in. Join in if you are curious (but not necessarily knowledgeable) about algorithms, and about the deep insights into science that you can obtain by the algorithmic approach.",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/58/f514c0352b11e4a1481570b8fd189d/mooc_statistical_mechanics_2609.png",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-2761",
+            "description": "Experienced Computer Scientists analyze and solve computational problems at a level of abstraction that is beyond that of any particular programming language. This two-part class is designed to train students in the mathematical concepts and process of Algorithmic Thinking, allowing them to build simpler, more efficient solutions to computational problems. ",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/7e/d62e209dd811e4aa8acd5d88abd6b3/AlgTh_logo.jpg",
+            "domainTypes": [
+                {
+                    "subdomainId": "algorithms",
+                    "domainId": "computer-science"
+                }
+            ],
+            "slug": "algorithmicthink2",
+            "courseType": "v1.session",
+            "workload": "7-10 hours/week",
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "算法思想（第 2 部分）",
+            "partnerIds": [
+                "13"
+            ]
+        },
+        {
+            "id": "v1-1330",
+            "partnerIds": [
+                "50"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "mobile-and-web-development",
+                    "domainId": "computer-science"
+                }
+            ],
+            "workload": "4-10 hours/week",
+            "name": "从 GPS 和谷歌地图到空间计算",
+            "slug": "spatialcomputing",
+            "courseType": "v1.session",
+            "description": "This course introduces concepts, algorithms, programming, theory and design of spatial computing technologies such as global positioning systems (GPS), Google Maps, location-based services and geographic information systems. Learn how to collect, analyze, and visualize your own spatial datasets while avoiding common pitfalls and building better location-aware technologies.",
+            "previewLink": "https://class.coursera.org/spatialcomputing-001/lecture/preview",
+            "primaryLanguages": [
+                "en"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/dc/467b70352b11e48e9c2583f964c285/spatialcomputing_logo_4.png"
+        },
+        {
+            "id": "Gtv4Xb1-EeS-ViIACwYKVQ",
+            "name": "机器学习",
+            "domainTypes": [
+                {
+                    "subdomainId": "machine-learning",
+                    "domainId": "data-science"
+                }
+            ],
+            "courseType": "v2.ondemand",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png",
+            "slug": "machine-learning",
+            "partnerIds": [
+                "1"
+            ],
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI. This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. Can I earn a Course Certificate if I completed this course before they were available? In order to verify one’s identity and maintain academic integrity, learners who completed assignments or quizzes for Machine Learning prior to November 1st will need to redo and resubmit these assessments in order to earn a Course Certificate. To clarify, both quizzes and programming assignments need to be resubmitted. Though your deadlines may have technically passed, please be assured that you may resubmit both types of assessments at any time. We apologize for the inconvenience and appreciate your patience as we strive to ensure the integrity and value of our certificates. Please note that, in order to earn a Course Certificate, you must complete the course within 180 days of payment, or by May 1, 2016, whichever is earlier."
+        },
+        {
+            "id": "z_MvXQoVEeWCpyIAC3lAyw",
+            "slug": "political-philosophy-2",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6f/bce030b8d911e38725b565d9244244/Screen-Shot-2014-03-31-at-2.12.03-PM.png",
+            "name": "革命性理念：法律与政治哲学简介，第 2 部分",
+            "description": "What is the purpose of government? Why should we have a State? What kind of State should we have? Even within a political community, there may be sharp disagreements about the role and purpose of government. Some want an active, involved government, seeing legal and political institutions as the means to solve our most pressing problems, and to help bring about peace, equality, justice, happiness, and to protect individual liberty. Others want a more minimal government, motivated, perhaps, by some of the disastrous political experiments of the 20th Century, and the thought that political power is often just a step away from tyranny. In many cases, these disagreements arise out of deep philosophical disagreements. All political and legal institutions are built on foundational ideas. In this course, we will explore those ideas, taking the political institutions and political systems around us not as fixed and unquestionable, but as things to evaluate and, if necessary, to change. We will consider the ideas and arguments of some of the world’s most celebrated philosophers, including historical thinkers such as Plato, Hugo Grotius, David Hume, Thomas Jefferson, and James Madison, and more contemporary theorists such as Michelle Alexander, Kwame Anthony Appiah, Bryan Caplan, Angela Davis, Ronald Dworkin, Jon Elster, John Hart Ely, H.L.A. Hart, Michael Huemer, Andrew Rehfeld, and Jeremy Waldron. The aim of the course is not to convince you of the correctness of any particular view or political position, but to provide you with a deeper and more philosophically-informed basis for your own views, and, perhaps, to help you better understand the views of those with whom you disagree.",
+            "courseType": "v2.ondemand",
+            "partnerIds": [
+                "6"
+            ],
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "philosophy",
+                    "domainId": "arts-and-humanities"
+                },
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ]
+        },
+        {
+            "id": "v1-137",
+            "slug": "earth",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "environmental-science-and-sustainability"
+                }
+            ],
+            "partnerIds": [
+                "17"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/eccc90352d11e485fc9138b3373442/large-icon.png",
+            "courseType": "v1.session",
+            "workload": "8-10 hours/week",
+            "description": "Planet Earth, an overview of selected geological topics, discusses how earthquakes, volcanoes, minerals and rocks, energy, and plate tectonics have interacted over deep time to produce our dynamic island in space, and its unique resources.",
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "地球与人类！"
+        },
+        {
+            "id": "iLI6egl6EeWw4CIACxsM5w",
+            "courseType": "v2.ondemand",
+            "name": "美观，形式和功能：对称性探索",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6e/30abf478d57726f02ca238b3eed237/Symmetry-edit.png",
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "math-and-logic",
+                    "subdomainId": "math-and-logic"
+                }
+            ],
+            "description": "[IF YOU ARE LOOKING FOR THE ACADEMIC CREDIT VERSION OF THIS COURSE PLEASE GO TO https://class.coursera.org/ntusym-004]. Learn how to identify symmetrical forms and appreciate their importance in nature, art, architecture, crystallography and technology. Understand symmetry quantitatively, recognize its role in beauty and design, and appreciate its function in our everyday life.",
+            "partnerIds": [
+                "121"
+            ],
+            "slug": "symmetry"
+        },
+        {
+            "id": "X4ituSzfEeWl3A7Kuc0JCQ",
+            "domainTypes": [
+                {
+                    "domainId": "computer-science",
+                    "subdomainId": "computer-security-and-networks"
+                }
+            ],
+            "courseType": "v2.ondemand",
+            "description": "Have you wondered how “Things” talk to each other and the cloud? Do you understand the alternatives for conveying latency-sensitive real time data versus reliable signaling data? Building on the skills from the Sensing and Actuation course, we will explore protocols to exchange information between processors. In this course, you will learn how VoIP systems like Skype work and implement your own app for voice calls and text messages. You will start by using the Session Initiation Protocol (SIP) for session management. Next, you will learn how voice codecs such as Adaptive Multi Rate (AMR) are used in 3G networks and use them for voice traffic in your app. Learning Goals: After completing this course, you will be able to: 1.Implement session initiation, management and termination on your DragonBoard™ 410c using SIP. 2.Discover other users and exchange device capabilities. 3.Compare and contrast narrowband and wideband codecs and experience the voice quality differences between them. 4.Implement and demonstrate VoIP calls using the DragonBoard 410c.",
+            "name": "物联网：通讯技术",
+            "slug": "internet-of-things-communication",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2f/948d904d0811e5a1a25fa584277f48/internet-of-things.jpg",
+            "workload": "",
+            "primaryLanguages": [
+                "en"
+            ],
+            "partnerIds": [
+                "53"
+            ]
+        },
+        {
+            "id": "P--h6zpNEeWYbg7p2_3OHQ",
+            "domainTypes": [
+                {
+                    "domainId": "computer-science",
+                    "subdomainId": "software-development"
+                },
+                {
+                    "subdomainId": "data-analysis",
+                    "domainId": "data-science"
+                }
+            ],
+            "slug": "python-data",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/2959b0502911e5851f058ad6ebf936/pythondata_thumbnail_1x1.png",
+            "courseType": "v2.ondemand",
+            "partnerIds": [
+                "3"
+            ],
+            "description": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook “Python for Informatics”. This course is equivalent to the second half of the 11-week Programming for Everybody (Python) course.",
+            "name": "Python 数据结构",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "2-4 hours/week"
+        },
+        {
+            "id": "Z3yHdBVBEeWvmQrN_lODCw",
+            "workload": "4 weeks, 2-3 hours/week",
+            "name": "用户体验：研究与原型",
+            "domainTypes": [
+                {
+                    "subdomainId": "design-and-product",
+                    "domainId": "computer-science"
+                }
+            ],
+            "courseType": "v2.ondemand",
+            "slug": "user-research",
+            "description": "What makes for a great user experience? How can you consistently design experiences that work well, are easy to use and people want to use? This course will teach you the core process of experience design and how to effectively evaluate your work with the people for whom you are designing. You'll learn fundamental methods of design research that will enable you to effectively understand people, the sequences of their actions, and the context in which they work. Through the assignments, you’ll learn practical techniques for making sense of what you see and transform your observations into meaningful actionable insights and unique opportunity areas for design. You’ll also explore how to generate ideas in response to the opportunities identified and learn methods for making your ideas tangible. By answering specific questions and refining your concepts, you’ll move closer to making your ideas real. We’ll use cases from a variety of industries including health, education, transportation, finance, and beyond to illustrate how these methods work across different domains. Good luck and we hope you enjoy the course!",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/84/1ae16054b711e4b8d11fd5690613d3/hci-large-icon.png",
+            "primaryLanguages": [
+                "en"
+            ],
+            "partnerIds": [
+                "53"
+            ]
+        },
+        {
+            "id": "v1-477",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "environmental-science-and-sustainability"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0b/2816c0352b11e49acdcfd9c2fca6c5/tree-logo-600x340.png",
+            "partnerIds": [
+                "54"
+            ],
+            "description": "In this course you will learn the basics of the life-cycle assessment (LCA) method for holistic environmental analysis of products, technologies, and systems. LCA sheds light on the environmental implications of the consumption and behavioral choices we all make on a daily basis.",
+            "courseType": "v1.session",
+            "name": "该产品是否环保？生命周期环境评估导论",
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "introtolca",
+            "workload": "5-7 hours/week"
+        },
+        {
+            "id": "v1-1034",
+            "partnerIds": [
+                "7"
+            ],
+            "name": "（绝大部分）高等教育的历史与未来",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/e78750352b11e4b1518bb3518fcc93/iStock_000015202734_Large.png",
+            "slug": "highered",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "2-4 hours/week",
+            "description": "In this course we will learn about the features of higher education that were designed specifically to prepare workers and leaders for the Industrial Age, and we’ll strategize ways that, together, we can change learning--inside of school and out--for the world we live in now--and even to help improve our world. #FutureEd",
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "education"
+                }
+            ]
+        },
+        {
+            "id": "v1-1973",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/b7/47a830352b11e4a4351b48ac74e750/coursera_logo.png",
+            "description": "This is an intensive, advanced summer school (in the sense used by scientists) in some of the methods of computational, data-intensive science. It covers a variety of topics from applied computer science and engineering, and statistics, and it requires a strong background in computing, statistics, and data-intensive research. ",
+            "slug": "bigdataschool",
+            "workload": "20-25 hours/week",
+            "domainTypes": [
+                {
+                    "subdomainId": "data-analysis",
+                    "domainId": "data-science"
+                }
+            ],
+            "courseType": "v1.session",
+            "name": "加州理工学院和喷气推进实验室暑期学校：大数据分析",
+            "partnerIds": [
+                "12"
+            ],
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-2184",
+            "slug": "assetpricing2",
+            "description": "This course is part two of an introduction to graduate-level academic asset pricing. This second part uses the theory and elaborates empirical understanding. It explores some classic applications including the Fama-French three-factor model, consumption and the equity premium, and extends the theory to cover options, bonds, and portfolios. ",
+            "domainTypes": [
+                {
+                    "subdomainId": "finance",
+                    "domainId": "business"
+                }
+            ],
+            "name": "资产定价，第 2 部分",
+            "courseType": "v1.session",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/94/d7f8d0547b11e4ad446746a380ddb9/Dark-Blue.jpg",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "10-15 hours/week",
+            "partnerIds": [
+                "102"
+            ]
+        },
+        {
+            "id": "v1-3420",
+            "courseType": "v1.capstone",
+            "domainTypes": [
+                {
+                    "subdomainId": "finance",
+                    "domainId": "business"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/8e/f7c2903b8111e59ae4b58ae74cb10d/valutation_specialization.png",
+            "partnerIds": [
+                "3"
+            ],
+            "slug": "valuationproject",
+            "workload": "5-10 hours/week",
+            "description": "This is Capstone Project that is the natural culmination of the Specialization and offers qualified learners to apply their knowledge to analyze a real company or complex project. It will reflect the most salient features of the real world that you are likely to confront.",
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "资产估值毕业项目"
+        },
+        {
+            "id": "v1-2028",
+            "description": "This course will provide learners with an opportunity to explore the challenges, opportunities, and skills necessary to provide nursing care in rural areas. ",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1c/11b790647211e4957235ddd5a9e6f1/RuralHealthIconImage.jpg",
+            "domainTypes": [
+                {
+                    "subdomainId": "medicine-and-healthcare",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "partnerIds": [
+                "120"
+            ],
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "slug": "ruralnursing",
+            "name": "农村地区卫生护理",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-2147",
+            "slug": "origensdavida",
+            "description": "A vida que conhecemos só ocorre na Terra ? Pode existir vida em outros lugares do Universo? Para conhecer melhor a vida faz-se necessário conhecer outras vidas. Este curso explora questões abertas sobre a origem da vida em um contexto astronômico.",
+            "partnerIds": [
+                "221"
+            ],
+            "primaryLanguages": [
+                "pt"
+            ],
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0d/e83800382711e4926a792ae54af06e/origens---Copia.png",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                }
+            ],
+            "name": "宇宙生命起源"
+        },
+        {
+            "id": "v1-376",
+            "workload": "3-4 hours/week",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/83/056c50477311e59f1785e046211ca2/introclassical.png",
+            "partnerIds": [
+                "3"
+            ],
+            "slug": "introtoclassical",
+            "courseType": "v1.session",
+            "name": "古典音乐导论",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "This course will focus on Western classical music of the eighteenth and nineteenth centuries; it is designed for people who are passionate about classical music but who have not necessarily had any advanced training or taken any college-level music courses. The only prerequisite is a basic knowledge of how to read musical notation.",
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "music-and-art"
+                }
+            ]
+        },
+        {
+            "id": "57Uu8hRTEeWCWhKuhISYpw",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "marketing"
+                }
+            ],
+            "partnerIds": [
+                "220"
+            ],
+            "courseType": "v2.ondemand",
+            "name": "亚洲国际市场营销",
+            "description": "This course brings together two key subjects, International Marketing and Asia. It will provide the basic foundations of international marketing and explain them in the Asian context, more specifically marketing to Asia, marketing from Asia, and marketing with Asia (Asia as a brand). People who successfully complete this course will obtain the following outcomes: (1) a better understanding of marketing concepts in the specific context of companies and consumers in an important region. (2) for practitioners, acquire hands-on tools to apply these concepts to their products and target country markets. (3) learn that international marketing is about striking the right balance between maximizing the similarities across cultures (Etic approach) and customizing marketing (Emic approach) to important local differences, and (4) learn from interviews with experts, many of whom have decades of field and academic experience in marketing in Asia. This course will be unique in its focus on Asia-centered marketing and its integration of theory and practice.",
+            "slug": "international-marketing",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4b/b16a10181b11e5a0f5e7a72bfa9e3d/little-india.png",
+            "workload": "10 hours of lectures and assignments",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-129",
+            "partnerIds": [
+                "17"
+            ],
+            "name": "异构并行程序设计",
+            "workload": "6-8 hours/week",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/25/15e5b0352d11e48277ab05289070ba/large-icon.png",
+            "slug": "hetero",
+            "courseType": "v1.session",
+            "description": "This course introduces concepts, languages, techniques, and patterns for programming heterogeneous, massively parallel processors. Its contents and structure have been significantly revised based on the experience gained from its initial offering in 2012. It covers heterogeneous computing architectures, data-parallel programming models, techniques for memory bandwidth management, and parallel algorithm patterns.",
+            "domainTypes": [
+                {
+                    "domainId": "computer-science",
+                    "subdomainId": "software-development"
+                }
+            ],
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-427",
+            "slug": "globalhighered",
+            "name": "“知识经济”下的全球化高等教育和研究",
+            "workload": "3-5 hours/week",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ca/74dfc7e9fe83fc00f4f37878a6e030/TwitterAvatar.jpg",
+            "partnerIds": [
+                "65"
+            ],
+            "courseType": "v1.session",
+            "description": "This course is designed to examine an array of issues related to the globalization of higher education and research. The main objective of the course is to enable students to better understand how and why universities are engaged in the globalization process, as well as what the key implications of this development process are. ",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "education"
+                }
+            ]
+        },
+        {
+            "id": "v1-380",
+            "partnerIds": [
+                "50"
+            ],
+            "name": "社会流行病学",
+            "slug": "socialepi",
+            "domainTypes": [
+                {
+                    "subdomainId": "clinical-science",
+                    "domainId": "life-sciences"
+                },
+                {
+                    "subdomainId": "medicine-and-healthcare",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/d1/356a4ab3519b9b7bab0f1bc9c9813b/Final-Social-Epidemiology-.jpg",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "2-4 hours/week",
+            "description": "Social epidemiology is about how a society makes people sick and/or healthy. We address not only the identification of new disease risk factors (e.g., deficient social capital) but also how well-known exposures (e.g., cigarette smoking, lead paint, health insurance) emerge and are maintained by the social system."
+        },
+        {
+            "id": "zN_XyjlAEeWCYBKNeFwojw",
+            "description": "The capstone will develop a professional-quality web portfolio. Students will demonstrate the ability to design and implement a responsive site for a minimum of three platforms. Adherence to validation and accessibility standards will be required. The evolving student implementations will be reviewed each week by capstone peers and teaching assistants to make sure that the student keeps up with the agenda of the course. Upon completion of this course students will feel comfortable creating and/or updating existing front-end sites, utilizing existing frameworks, and testing sites for accessibility compliance. This course is only open to students who have completed the first four courses in the Web Design for Everybody specialization: Introduction to HTML5, Introduction to CSS3, Interactivity with JavaScript, and Advanced Styling with Responsive Design.",
+            "domainTypes": [
+                {
+                    "subdomainId": "mobile-and-web-development",
+                    "domainId": "computer-science"
+                }
+            ],
+            "name": "零基础 Web 设计毕业项目",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6a/467160502d11e59e72391aa537f5c9/wd4e_capstone_1x1.png",
+            "partnerIds": [
+                "3"
+            ],
+            "workload": "",
+            "slug": "wd4e-capstone",
+            "primaryLanguages": [
+                "en"
+            ],
+            "courseType": "v2.capstone"
+        },
+        {
+            "id": "v1-1373",
+            "name": "公益创业",
+            "partnerIds": [
+                "6"
+            ],
+            "description": "Join us and learn how to develop, test, and deploy high-impact solutions to society's toughest challenges.",
+            "slug": "socialimpact",
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "entrepreneurship"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/51/4587c0352911e49d32519928fb33e3/Picture1.png",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-315",
+            "name": "“注意！！”生命各阶段的注意力缺陷多动障碍（ADHD）",
+            "domainTypes": [
+                {
+                    "subdomainId": "medicine-and-healthcare",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "partnerIds": [
+                "6"
+            ],
+            "courseType": "v1.session",
+            "description": "This course reviews current scientific knowledge and clinical approaches to Attention-Deficit/Hyperactivity Disorder (ADHD) and examines its impact on development, functioning and health outcomes.",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "2-4 hours/week",
+            "slug": "adhd",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0b/b93330352b11e4aa3c599183b828af/ADHD_brain.png"
+        },
+        {
+            "id": "AMBr8zelEeWJaxK5AT4frw",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/22/325e5037b611e585a993ec1a31b783/ioslogo3.jpg",
+            "domainTypes": [
+                {
+                    "subdomainId": "mobile-and-web-development",
+                    "domainId": "computer-science"
+                }
+            ],
+            "courseType": "v2.ondemand",
+            "description": "In App Design and Development for iOS, the third course of the iOS App Development with Swift specialization, you will be developing foundational programming skills to support graphical element presentation and data manipulation from basic functions through to advanced processing. You will continue to build your skill set to use and apply core graphics, touch handling and gestures, animations and transitions, alerts and actions as well as advanced algorithms, threading and more. By the end of this course you will be able to develop a more advanced, fully functioning app.",
+            "name": "iOS App 设计和开发",
+            "workload": "",
+            "slug": "iosappdesigndevelopment",
+            "primaryLanguages": [
+                "en"
+            ],
+            "partnerIds": [
+                "11"
+            ]
+        },
+        {
+            "id": "Fq__yk2bEeS5fSIACy-OMw",
+            "description": "This course will introduce the student to contemporary Systems Biology focused on mammalian cells, their constituents and their functions. Biology is moving from molecular to modular. As our knowledge of our genome and gene expression deepens and we develop lists of molecules (proteins, lipids, ions) involved in cellular processes, we need to understand how these molecules interact with each other to form modules that act as discrete functional systems. These systems underlie core subcellular processes such as signal transduction, transcription, motility and electrical excitability. In turn these processes come together to exhibit cellular behaviors such as secretion, proliferation and action potentials. What are the properties of such subcellular and cellular systems? What are the mechanisms by which emergent behaviors of systems arise? What types of experiments inform systems-level thinking? Why do we need computation and simulations to understand these systems? The course will develop multiple lines of reasoning to answer the questions listed above. Two major reasoning threads are: the design, execution and interpretation of multivariable experiments that produce large data sets; quantitative reasoning, models and simulations. Examples will be discussed to demonstrate “how” cell- level functions arise and “why” mechanistic knowledge allows us to predict cellular behaviors leading to disease states and drug responses.",
+            "courseType": "v2.ondemand",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/42/1b8fdf11bde18fd7fed9d2c24d1c03/Introduction_SB_logo_600X340.png",
+            "slug": "systems-biology",
+            "workload": "6-8 hours/week",
+            "name": "系统生物学导论",
+            "domainTypes": [
+                {
+                    "subdomainId": "biology",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "primaryLanguages": [
+                "en"
+            ],
+            "partnerIds": [
+                "27"
+            ]
+        },
+        {
+            "id": "v1-2632",
+            "slug": "spacebooks",
+            "description": "Learn about how our imagination of the universe and its inhabitants was shaped by literature throughout the last 400 years. ",
+            "name": "天书：外星文学导论",
+            "partnerIds": [
+                "93"
+            ],
+            "courseType": "v1.session",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/46/88b080e38b11e4ab885b27ea2bd228/course_image_test.jpg",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "language-and-literature"
+                }
+            ],
+            "workload": "5-6 hours/week"
+        },
+        {
+            "id": "v1-2859",
+            "domainTypes": [
+                {
+                    "domainId": "life-sciences",
+                    "subdomainId": "bioinformatics"
+                },
+                {
+                    "subdomainId": "algorithms",
+                    "domainId": "computer-science"
+                }
+            ],
+            "description": "After sequencing genomes, we would like to compare them. We will see that dynamic programming is a powerful algorithmic tool when we compare two genes (i.e., short sequences of DNA) or two proteins. When we \"zoom out\" to compare entire genomes, we will employ combinatorial algorithms.",
+            "slug": "comparinggenomes",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/cd/e884c0b3ce11e48a6aa543f529a42d/chapter5_final-copy.jpg",
+            "workload": "4-10 hours/week",
+            "name": "基因、蛋白质和基因组的对比（生物信息学 Ⅲ）",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "partnerIds": [
+                "53"
+            ]
+        },
+        {
+            "id": "v1-1063",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/da/501ac76b3c01de003b86bbcc987b6d/130423_Prince-William-Forest_335.jpg",
+            "name": "FLOW教育：通过户外水域考察进行学习",
+            "description": "This course is designed for classroom teachers (grades 4-8) to learn about watersheds and outdoor education using the Chesapeake Bay watershed as an example. The course introduces engaging technologies for investigating watersheds and helps you plan and effectively implement outdoor experiences.",
+            "partnerIds": [
+                "154"
+            ],
+            "courseType": "v1.session",
+            "slug": "watershed",
+            "primaryLanguages": [
+                "en"
+            ],
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "education"
+                }
+            ],
+            "workload": "5-6 hours/week"
+        },
+        {
+            "id": "v1-163",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e4/ba69a6615c945e9e311be8fb07ce6e/MP900437258.jpg",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "environmental-science-and-sustainability"
+                }
+            ],
+            "description": "This course will focus on the theory, design and operation of commercial nuclear power reactors. The course will also touch on contemporary issues regarding nuclear power generation including: the nuclear fuel cycle, the economics of nuclear power, and nuclear non-proliferation.",
+            "partnerIds": [
+                "36"
+            ],
+            "courseType": "v1.session",
+            "name": "核电科学与技术初探",
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "nuclearscience",
+            "workload": "4-8 hours/week"
+        },
+        {
+            "id": "v1-492",
+            "description": "This introduction to engineering course will help you learn modeling and analysis techniques for electrical, mechanical, and chemical systems and discover how engineered systems that seem very different are actually very similar. ",
+            "name": "万法归一：建模工程系统",
+            "partnerIds": [
+                "54"
+            ],
+            "courseType": "v1.session",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a6/7fd9a0352b11e4983ad3612bf5dfa7/TDMurpheyCourseraLogo.png",
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "modelsystems",
+            "domainTypes": [
+                {
+                    "subdomainId": "mechanical-engineering",
+                    "domainId": "physical-science-and-engineering"
+                }
+            ],
+            "workload": "5-7 hours/week"
+        },
+        {
+            "id": "v1-1735",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e7/436610352a11e48277ab05289070ba/ForensicAccountingLogo.png",
+            "domainTypes": [
+                {
+                    "subdomainId": "finance",
+                    "domainId": "business"
+                }
+            ],
+            "workload": "3-5 hours/week",
+            "partnerIds": [
+                "116"
+            ],
+            "courseType": "v1.session",
+            "description": "Everyday across the world, thousands of businesses are victimized by fraud. Who commits these bad acts? Why? And, how? In this course we are going to help you answer the questions: who commits fraud, why and how. We’ll also help you develop skills for catching them.",
+            "name": "法务会计及欺诈检查",
+            "slug": "forensicaccounting",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-1970",
+            "primaryLanguages": [
+                "zh"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "medicine-and-healthcare",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "description": "课程的主要目标是：（1）了解流行病学研究过程中，从研究设计、现场数据采集和录入、到数据清理和分析，常用的几种软件包的使用方法；（2）加强研究中对流行病学基础理论知识的灵活应用。",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/45/5287e0352b11e48e9c2583f964c285/2014-07-26-_______________.png",
+            "workload": "4-6 hours/week",
+            "courseType": "v1.session",
+            "slug": "epiapps",
+            "name": "软件包在流行病学研究中的应用",
+            "partnerIds": [
+                "163"
+            ]
+        },
+        {
+            "id": "v1-1680",
+            "name": "红楼梦二──母神崇拜",
+            "slug": "rcd2",
+            "primaryLanguages": [
+                "zh"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/fb/636050352a11e485649b7db944a974/___.png",
+            "partnerIds": [
+                "75"
+            ],
+            "workload": "3-6 hours/week",
+            "courseType": "v1.session",
+            "description": "《紅樓夢》不只是一部青春紀事，更是一闋母神的頌歌；它既熱烈地宣揚了少女之美，卻也莊嚴地禮讚著母性力量。本次課程將聚焦在女媧─警幻─賈母─元妃─王夫人─劉姥姥六位成熟女性，針對其在書中扮演角色的功能與位置，進行深入的剖析，重新辨明這些「母神」具備的崇高形象。 ",
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "language-and-literature"
+                }
+            ]
+        },
+        {
+            "id": "v1-245",
+            "slug": "engcomlaw",
+            "name": "英国普通法：结构和原理",
+            "domainTypes": [
+                {
+                    "subdomainId": "law",
+                    "domainId": "social-sciences"
+                }
+            ],
+            "workload": "1-2 hours/week",
+            "partnerIds": [
+                "26"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/f2/b470f53d7519ddf8511555b7cb639f/new-logo.jpg",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "description": "For anyone with an interest in learning about one of the oldest and most influential legal systems in the world."
+        },
+        {
+            "id": "mGM6AmlPEeSdNiIACrbZkA",
+            "slug": "neuroeconomics",
+            "courseType": "v2.ondemand",
+            "description": "Economics, psychology, and neuroscience are converging today into a unified discipline of Neuroeconomics with the ultimate aim of creating a single, general theory of human decision-making. Neuroeconomics provides biologists, economists, psychologists and social scientists with a deeper understanding of how they make their own decisions and how others decide. Neuroscience, when allied with psychology and economics, creates powerful new models to explain why we make decisions. Neurobiological mechanisms of decision-making, decisions under risk, trust and cooperation will be central issues in this course. You will be provided with the most recent evidence from brain-imaging techniques (fMRI, TMS, etc.) and introduced to the explanatory models behind them. The course does not require any prior study of economics and neuroscience; however, it might require you to study novel interdisciplinary materials. The course provides an introduction to the methodology, assumptions, and main findings of Neuroeconomics. Our students have different backgrounds; therefore, I have adapted and simplified the course to allow all students to understand the interdisciplinary content. This course will help you to start your progress in the field of Neuroeconomics and to further develop your skills during other more advanced courses and trainings in the future. For some topics, the course will also provide supplementary videos to reveal the opinions of leading experts in the field. Each module provides optional reading material. The course structure is as follows: During each video, you will have to answer some relevant questions. Your answers will not affect your final grade. At the end of each module, you must complete a quiz consisting of 15 questions. To pass the course, you must reach a satisfactory standard in all the course modules by completing all graded quizzes and the final exam. In addition to watching video lectures and taking quizzes, you will receive an invitation to join our forum. We plan to join the discussions in the forum on a weekly basis. Welcome to Neuroeconomics World!",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/62/514997fc998e52578aff15c29f1362/neuro.jpg",
+            "partnerIds": [
+                "160"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "economics",
+                    "domainId": "social-sciences"
+                },
+                {
+                    "subdomainId": "biology",
+                    "domainId": "life-sciences"
+                }
+            ],
+            "primaryLanguages": [
+                "en"
+            ],
+            "name": "Introduction to Neuroeconomics: How the Brain Makes Decisions",
+            "workload": "9 weeks of study, 2-3 hours/week "
+        },
+        {
+            "id": "v1-896",
+            "domainTypes": [
+                {
+                    "subdomainId": "machine-learning",
+                    "domainId": "data-science"
+                }
+            ],
+            "partnerIds": [
+                "1"
+            ],
+            "courseType": "v1.session",
+            "name": "海量数据挖掘",
+            "description": "This class teaches algorithms for extracting models and other information from very large amounts of data. The emphasis is on techniques that are efficient and that scale well.",
+            "workload": "8-10 hours/week",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/32/e0a840352a11e4ae1bdd88b9e8f59b/mmds_logo2.png",
+            "slug": "mmds",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "OmgIw0C2EeWZtA4u62x6lQ",
+            "workload": "8 weeks of study, 4-6 hours/week",
+            "partnerIds": [
+                "131"
+            ],
+            "description": "In this course you will be introduced to the basic ideas behind the qualitative research in social science. You will learn about data collection, description, analysis and interpretation in qualitative research. Qualitative research often involves an iterative process. We will focus on the ingredients required for this process: data collection and analysis. You won't learn how to use qualitative methods by just watching video's, so we put much stress on collecting data through observation and interviewing and on analysing and interpreting the collected data in other assignments. Obviously, the most important concepts in qualitative research will be discussed, just as we will discuss quality criteria, good practices, ethics, writing some methods of analysis, and mixing methods. We hope to take away some prejudice, and enthuse many students for qualitative research.",
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                },
+                {
+                    "subdomainId": "data-analysis",
+                    "domainId": "data-science"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/26/e992d04c0411e5b40c4707537944f7/Logo_QLRM.png",
+            "courseType": "v2.ondemand",
+            "slug": "qualitative-methods",
+            "name": "定性研究方法",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "cm6wNxqEEeWwrBKfKrqlSQ",
+            "partnerIds": [
+                "208"
+            ],
+            "domainTypes": [
+                {
+                    "subdomainId": "mobile-and-web-development",
+                    "domainId": "computer-science"
+                }
+            ],
+            "courseType": "v2.ondemand",
+            "primaryLanguages": [
+                "pt"
+            ],
+            "description": "",
+            "slug": "ios-avancado",
+            "name": "改进和货币化您的 iOS App",
+            "workload": "",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0e/5666903cc711e59ae4b58ae74cb10d/curso3_final.jpg"
+        },
+        {
+            "id": "v1-1303",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/00/4d89a069b711e39470db7b8aaabceb/StatisticalInference.jpg",
+            "slug": "statinference",
+            "workload": "7-9 hours/week",
+            "description": "Learn how to draw conclusions about populations or scientific truths from data. This is the sixth course in the Johns Hopkins Data Science Course Track.",
+            "domainTypes": [
+                {
+                    "subdomainId": "data-analysis",
+                    "domainId": "data-science"
+                }
+            ],
+            "partnerIds": [
+                "8"
+            ],
+            "courseType": "v1.session",
+            "name": "统计推断",
+            "primaryLanguages": [
+                "en"
+            ]
+        },
+        {
+            "id": "v1-19",
+            "domainTypes": [
+                {
+                    "domainId": "computer-science",
+                    "subdomainId": "computer-security-and-networks"
+                }
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/51/7f3560352911e48bf3558061d6b8d2/more-height_2.png",
+            "slug": "security",
+            "partnerIds": [
+                "1"
+            ],
+            "courseType": "v1.session",
+            "description": "Learn how to design secure systems and write secure code. ",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "5-7 hours/week",
+            "name": "计算机安全"
+        },
+        {
+            "id": "v1-2159",
+            "domainTypes": [
+                {
+                    "domainId": "business",
+                    "subdomainId": "leadership-and-management"
+                }
+            ],
+            "partnerIds": [
+                "26"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/d3/a91c706c2611e4ab661fdf37adeed9/MCOF_MOOC_course_logo.jpg",
+            "courseType": "v1.session",
+            "description": "The aim of the course is to provide you with a comprehensive framework for understanding both the traditional principles of management inside companies today as well as the alternative principles that are becoming increasingly important. It provides both theoretical and practical perspectives on the nature of management in today’s organisations.",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "2-4 hours/week",
+            "slug": "futuremanagement",
+            "name": "管理未来的公司"
+        },
+        {
+            "id": "v1-441",
+            "name": "现场直播！：艺术家，动画师和玩家的艺术史",
+            "courseType": "v1.session",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "2-4 hours/week",
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "music-and-art"
+                }
+            ],
+            "slug": "livearthistory",
+            "partnerIds": [
+                "59"
+            ],
+            "description": "Explore art history from the artist's perspective. Learn how contemporary artists, animators and gamers work from the art of the past as part of their creative process, while building your own skills in visual analysis and creative and critical thinking. ",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/58/351265b97720115d956670f3bb1794/JEANNENE_P.jpg"
+        },
+        {
+            "id": "v1-81",
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/13/00d6a0352d11e49acdcfd9c2fca6c5/large-icon.png",
+            "slug": "cosmo",
+            "courseType": "v1.session",
+            "name": "星系和宇宙学",
+            "partnerIds": [
+                "12"
+            ],
+            "description": "An introduction to the modern extragalactic astronomy and cosmology, the physical universe, big bang, formation and evolution of galaxies, quasars, and large-scale structure.",
+            "primaryLanguages": [
+                "en"
+            ],
+            "workload": "6-9 hours/week",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                }
+            ]
+        }
+    ],
+    "paging": {
+        "next": "100",
+        "total": 1477
+    },
+    "linked": {
+        "partners.v1": [
+            {
+                "id": "33",
+                "name": "The University of Melbourne",
+                "shortName": "unimelb"
+            },
+            {
+                "id": "160",
+                "name": "Higher School of Economics",
+                "shortName": "hse"
+            },
+            {
+                "id": "36",
+                "shortName": "pitt",
+                "name": "University of Pittsburgh"
+            },
+            {
+                "id": "287",
+                "name": "Arizona State University",
+                "shortName": "asu"
+            },
+            {
+                "id": "93",
+                "name": "University of Zurich",
+                "shortName": "zurich"
+            },
+            {
+                "id": "10",
+                "name": "University of California, San Francisco",
+                "shortName": "ucsf"
+            },
+            {
+                "id": "25",
+                "name": "Universiteit Leiden",
+                "shortName": "leiden"
+            },
+            {
+                "id": "225",
+                "shortName": "upf",
+                "name": "Universitat Pompeu Fabra of Barcelona"
+            },
+            {
+                "id": "3",
+                "shortName": "umich",
+                "name": "University of Michigan"
+            },
+            {
+                "id": "13",
+                "shortName": "rice",
+                "name": "Rice University"
+            },
+            {
+                "id": "9",
+                "name": "Georgia Institute of Technology",
+                "shortName": "gatech"
+            },
+            {
+                "id": "75",
+                "name": "National Taiwan University",
+                "shortName": "taiwan"
+            },
+            {
+                "id": "63",
+                "shortName": "ucph",
+                "name": "University of Copenhagen"
+            },
+            {
+                "id": "11",
+                "name": "University of Toronto",
+                "shortName": "utoronto"
+            },
+            {
+                "id": "59",
+                "shortName": "calarts",
+                "name": "California Institute of the Arts"
+            },
+            {
+                "id": "199",
+                "shortName": "lunduniversity",
+                "name": "Lund University"
+            },
+            {
+                "id": "16",
+                "name": "École Polytechnique Fédérale de Lausanne",
+                "shortName": "epfl"
+            },
+            {
+                "id": "28",
+                "name": "The Ohio State University",
+                "shortName": "osu"
+            },
+            {
+                "id": "117",
+                "name": "The State University of New York",
+                "shortName": "suny"
+            },
+            {
+                "id": "221",
+                "shortName": "usp",
+                "name": "Universidade de São Paulo"
+            },
+            {
+                "id": "47",
+                "shortName": "nus",
+                "name": "National University of Singapore"
+            },
+            {
+                "id": "62",
+                "name": "Tecnológico de Monterrey",
+                "shortName": "tecdemonterrey"
+            },
+            {
+                "id": "154",
+                "shortName": "natgeo",
+                "name": "National Geographic Society"
+            },
+            {
+                "id": "208",
+                "name": "Universidade Estadual de Campinas",
+                "shortName": "unicamp"
+            },
+            {
+                "id": "182",
+                "name": "Koç University",
+                "shortName": "koc"
+            },
+            {
+                "id": "17",
+                "shortName": "illinois",
+                "name": "University of Illinois at Urbana-Champaign"
+            },
+            {
+                "id": "26",
+                "name": "University of London",
+                "shortName": "london"
+            },
+            {
+                "id": "12",
+                "shortName": "caltech",
+                "name": "Caltech"
+            },
+            {
+                "id": "31",
+                "name": "University of Florida",
+                "shortName": "ufl"
+            },
+            {
+                "id": "53",
+                "shortName": "ucsd",
+                "name": "University of California, San Diego"
+            },
+            {
+                "id": "116",
+                "shortName": "wvu",
+                "name": "West Virginia University"
+            },
+            {
+                "id": "51",
+                "shortName": "psu",
+                "name": "The Pennsylvania State University"
+            },
+            {
+                "id": "54",
+                "shortName": "northwestern",
+                "name": "Northwestern University"
+            },
+            {
+                "id": "7",
+                "name": "Duke University",
+                "shortName": "duke"
+            },
+            {
+                "id": "30",
+                "shortName": "uci",
+                "name": "University of California, Irvine"
+            },
+            {
+                "id": "34",
+                "shortName": "wesleyan",
+                "name": "Wesleyan University"
+            },
+            {
+                "id": "15",
+                "shortName": "uw",
+                "name": "University of Washington"
+            },
+            {
+                "id": "220",
+                "shortName": "yonsei",
+                "name": "Yonsei University"
+            },
+            {
+                "id": "65",
+                "shortName": "wisconsin",
+                "name": "University of Wisconsin–Madison"
+            },
+            {
+                "id": "107",
+                "name": "The Museum of Modern Art",
+                "shortName": "moma"
+            },
+            {
+                "id": "121",
+                "shortName": "ntu",
+                "name": "Nanyang Technological University, Singapore"
+            },
+            {
+                "id": "120",
+                "name": "University of New Mexico",
+                "shortName": "newmexico"
+            },
+            {
+                "id": "276",
+                "name": "National Research Tomsk State University",
+                "shortName": "tsu"
+            },
+            {
+                "id": "102",
+                "name": "The University of Chicago",
+                "shortName": "chicago"
+            },
+            {
+                "id": "49",
+                "shortName": "unige",
+                "name": "University of Geneva"
+            },
+            {
+                "id": "131",
+                "name": "University of Amsterdam",
+                "shortName": "amsterdam"
+            },
+            {
+                "id": "6",
+                "name": "University of Pennsylvania",
+                "shortName": "penn"
+            },
+            {
+                "id": "50",
+                "name": "University of Minnesota",
+                "shortName": "minnesota"
+            },
+            {
+                "id": "77",
+                "name": "The University of North Carolina at Chapel Hill",
+                "shortName": "unc"
+            },
+            {
+                "id": "130",
+                "name": "École normale supérieure",
+                "shortName": "ens"
+            },
+            {
+                "id": "103",
+                "name": "New Teacher Center",
+                "shortName": "ntc"
+            },
+            {
+                "id": "1",
+                "name": "Stanford University",
+                "shortName": "stanford"
+            },
+            {
+                "id": "8",
+                "name": "Johns Hopkins University",
+                "shortName": "jhu"
+            },
+            {
+                "id": "27",
+                "name": "Icahn School of Medicine at Mount Sinai",
+                "shortName": "mssm"
+            },
+            {
+                "id": "163",
+                "name": "Peking University",
+                "shortName": "pku"
+            },
+            {
+                "id": "147",
+                "shortName": "manchester",
+                "name": "University of Manchester"
+            }
+        ]
+    }
+}
